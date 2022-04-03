@@ -41,17 +41,19 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+You can find my demo inside my portfolio
 - What was your experience?
+I strengthened some skills that I have been learning in my work environment, improving my use and reasoning with bootstrap
 - What have you learned/improved?
-- Your wisdom? :)
+Improve my reasoning with tools and styles
+- Your wisdom?
+Now I can generate a 404 error page in a simple way
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [BootStrap](https://getbootstrap.com/)
 
 ## Features
 
@@ -70,6 +72,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://jhosebroportfolio.netlify.app/)
-- GitHub [@your-username](https://github.com/jhosebro)
-- Twitter [@your-twitter](https://twitter.com/jhosebro)
+- Website [Portafolio](https://jhosebroportfolio.netlify.app/)
+- GitHub [@jhosebro](https://github.com/jhosebro)
+- Twitter [@jhosebro](https://twitter.com/jhosebro)
